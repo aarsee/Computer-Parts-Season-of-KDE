@@ -1,0 +1,46 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/computer">
+		<file>easy.qml</file>
+		<file>medium.qml</file>
+		<file>Computer.qml</file>
+		<file>difficult.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>hard.qml</file>
+		<file>computer.svg</file>
+		<file>computer.js</file>
+		<file>resource/background.svgz</file>
+		<file>resource/headset.wav</file>
+		<file>resource/click.wav</file>
+		<file>resource/scanner.svgz</file>
+		<file>resource/cdwriter.svgz</file>
+		<file>resource/speaker.svgz</file>
+		<file>resource/cd.wav</file>
+		<file>resource/README</file>
+		<file>resource/ram.svgz</file>
+		<file>resource/ups.svgz</file>
+		<file>resource/mouse.svgz</file>
+		<file>resource/nic.svgz</file>
+		<file>resource/floppy.svgz</file>
+		<file>resource/microphone.wav</file>
+		<file>resource/motherboard.svgz</file>
+		<file>resource/keyboard.svgz</file>
+		<file>resource/musicalnote.svgz</file>
+		<file>resource/image.svgz</file>
+		<file>resource/cd.svgz</file>
+		<file>resource/pendrive.svgz</file>
+		<file>resource/harddrive.wav</file>
+		<file>resource/monitor.svgz</file>
+		<file>resource/back.svgz</file>
+		<file>resource/start.wav</file>
+		<file>resource/typing.wav</file>
+		<file>resource/printer.svgz</file>
+		<file>resource/printer.wav</file>
+		<file>resource/speaker.wav</file>
+		<file>resource/scanner.wav</file>
+		<file>resource/README~</file>
+		<file>resource/microphone.svgz</file>
+		<file>resource/harddisk.svgz</file>
+		<file>resource/cpu.svgz</file>
+		<file>resource/headset.svgz</file>
+	</qresource>
+</RCC>
